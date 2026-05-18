@@ -310,4 +310,3 @@ mod tests {
         assert_eq!(signature.is_signed_by_address(&p2pkh, msg_hash), Ok(false));
     }
 }
-Hello 
